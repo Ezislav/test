@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c4a1cc5-ec8e-46cc-99c4-d436a3ecc0aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/multithreading/BasicThreadMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/multithreading/CreateThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/multithreading/ExecutorService/ExecutorServiceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/multithreading/ExecutorService/ScheduledExecutorServiceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/multithreading/SynchronizedExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/multithreading/VolatileExample.java" afterDir="false" />
+    <list default="true" id="7c4a1cc5-ec8e-46cc-99c4-d436a3ecc0aa" name="Changes" comment="package multhithreading">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/BasicThreadMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/multithreading/BasicThreadMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/CreateThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/multithreading/CreateThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -54,13 +55,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ScheduledExecutorServiceExample">
+  <component name="RunManager" selected="Application.BasicThreadMethod">
     <configuration name="BasicThreadMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.multithreading.BasicThreadMethod" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.multithreading.ExecutorService.*" />
+          <option name="PATTERN" value="org.example.multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.multithreading.CreateThread" />
+    <configuration name="CountDownLatchExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.multithreading.Synchronizatori.CountDownLatchExample" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.multithreading.ExecutorService.*" />
+          <option name="PATTERN" value="org.example.multithreading.Synchronizatori.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.stream.Example" />
+    <configuration name="ExchangerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.multithreading.Synchronizatori.ExchangerExample" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.stream.*" />
+          <option name="PATTERN" value="org.example.multithreading.Synchronizatori.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScheduledExecutorServiceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.multithreading.ExecutorService.ScheduledExecutorServiceExample" />
+    <configuration name="SemaphorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.multithreading.Synchronizatori.SemaphorExample" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.multithreading.ExecutorService.*" />
+          <option name="PATTERN" value="org.example.multithreading.Synchronizatori.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ScheduledExecutorServiceExample" />
-        <item itemvalue="Application.ExecutorServiceExample" />
         <item itemvalue="Application.BasicThreadMethod" />
-        <item itemvalue="Application.CreateThread" />
-        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.ExchangerExample" />
+        <item itemvalue="Application.CountDownLatchExample" />
+        <item itemvalue="Application.SemaphorExample" />
+        <item itemvalue="Application.ExecutorServiceExample" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697712714108</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="package multhithreading">
+      <option name="closed" value="true" />
+      <created>1697772483377</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697772483377</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +172,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit + Stream example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit + Stream example" />
+    <MESSAGE value="package multhithreading" />
+    <option name="LAST_COMMIT_MESSAGE" value="package multhithreading" />
   </component>
 </project>
