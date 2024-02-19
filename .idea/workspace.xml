@@ -4,10 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c4a1cc5-ec8e-46cc-99c4-d436a3ecc0aa" name="Changes" comment="package multhithreading">
+    <list default="true" id="7c4a1cc5-ec8e-46cc-99c4-d436a3ecc0aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/abstraction/AbstractInterfaceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/abstraction/AbstractionClassExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/abstraction/ExampleFromAbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/abstraction/ExampleFromInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collection/List/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collection/List/LinkedListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collection/List/StackExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collection/List/VectorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collection/Queue/QueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/SyncronizedAndVolatile/SynchronizedExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/SyncronizedAndVolatile/VolatileExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/BasicThreadMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/multithreading/BasicThreadMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/CreateThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/multithreading/CreateThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/BasicThreadMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/BasicThreadMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/CallableAndRunnable/CallableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/CallableAndRunnable/CallableExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/CallableAndRunnable/FutureExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/CallableAndRunnable/FutureExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/CallableAndRunnable/RunnableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/CallableAndRunnable/RunnableExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/CallableAndRunnable/dif.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/CallableAndRunnable/dif.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/CreateThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/CreateThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/ExecutorService/ExecutorServiceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/ExecutorService/ExecutorServiceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/ExecutorService/ScheduledExecutorServiceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/ExecutorService/ScheduledExecutorServiceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/Synchronizatori/CountDownLatchExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/Synchronizatori/CountDownLatchExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/Synchronizatori/ExchangerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/Synchronizatori/ExchangerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/Synchronizatori/SemaphorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/Synchronizatori/SemaphorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/SynchronizedExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/VolatileExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/stream/Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stream/Stream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +43,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -52,16 +79,17 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BasicThreadMethod">
-    <configuration name="BasicThreadMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.multithreading.BasicThreadMethod" />
+  <component name="RunManager" selected="Application.ExampleFromAbstractClass">
+    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.collection.List.ArrayListExample" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.multithreading.*" />
+          <option name="PATTERN" value="org.example.collection.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountDownLatchExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.multithreading.Synchronizatori.CountDownLatchExample" />
+    <configuration name="ExampleFromAbstractClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.abstraction.ExampleFromAbstractClass" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.multithreading.Synchronizatori.*" />
+          <option name="PATTERN" value="OOP.abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExchangerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.multithreading.Synchronizatori.ExchangerExample" />
+    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.leetCode.MergeSortedArray" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.multithreading.Synchronizatori.*" />
+          <option name="PATTERN" value="org.example.leetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExecutorServiceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.multithreading.ExecutorService.ExecutorServiceExample" />
+    <configuration name="Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.stream.Stream" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.multithreading.ExecutorService.*" />
+          <option name="PATTERN" value="org.example.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SemaphorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.multithreading.Synchronizatori.SemaphorExample" />
+    <configuration name="stream.Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.Stream" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.multithreading.Synchronizatori.*" />
+          <option name="PATTERN" value="stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BasicThreadMethod" />
-        <item itemvalue="Application.ExchangerExample" />
-        <item itemvalue="Application.CountDownLatchExample" />
-        <item itemvalue="Application.SemaphorExample" />
-        <item itemvalue="Application.ExecutorServiceExample" />
+        <item itemvalue="Application.ExampleFromAbstractClass" />
+        <item itemvalue="Application.stream.Stream" />
+        <item itemvalue="Application.MergeSortedArray" />
+        <item itemvalue="Application.ArrayListExample" />
+        <item itemvalue="Application.Stream" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697772483377</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="upd multhithreading">
+      <option name="closed" value="true" />
+      <created>1699521657415</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699521657415</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +209,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit + Stream example" />
     <MESSAGE value="package multhithreading" />
-    <option name="LAST_COMMIT_MESSAGE" value="package multhithreading" />
+    <MESSAGE value="upd multhithreading" />
+    <option name="LAST_COMMIT_MESSAGE" value="upd multhithreading" />
   </component>
 </project>

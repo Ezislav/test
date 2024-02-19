@@ -1,4 +1,4 @@
-package org.example.multithreading.Synchronizatori;
+package multithreading.Synchronizatori;
 
 import java.util.concurrent.Exchanger;
 

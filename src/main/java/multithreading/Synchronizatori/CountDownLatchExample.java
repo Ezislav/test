@@ -1,4 +1,4 @@
-package org.example.multithreading.Synchronizatori;
+package multithreading.Synchronizatori;
 
 //CountDownLatch (Защелка)
 //Описание: Позволяет одному или нескольким потокам ожидать,

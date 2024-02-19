@@ -1,4 +1,4 @@
-package org.example.multithreading.CallableAndRunnable;
+package multithreading.CallableAndRunnable;
 
 import java.util.concurrent.*;
 

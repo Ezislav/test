@@ -1,4 +1,4 @@
-package org.example.multithreading.CallableAndRunnable;
+package multithreading.CallableAndRunnable;
 
 public class RunnableExample implements Runnable {
 

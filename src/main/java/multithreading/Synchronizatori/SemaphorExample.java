@@ -1,4 +1,4 @@
-package org.example.multithreading.Synchronizatori;
+package multithreading.Synchronizatori;
 
 //Semaphore (Семафор)
 //Описание: Семафор управляет ограниченным количеством разрешений.

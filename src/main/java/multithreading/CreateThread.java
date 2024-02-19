@@ -1,4 +1,4 @@
-package org.example.multithreading;
+package multithreading;
 
 public class CreateThread extends Thread {
 
