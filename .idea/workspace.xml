@@ -5,35 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c4a1cc5-ec8e-46cc-99c4-d436a3ecc0aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/abstraction/AbstractInterfaceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/abstraction/AbstractionClassExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/abstraction/ExampleFromAbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/abstraction/ExampleFromInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collection/List/ArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collection/List/LinkedListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collection/List/StackExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collection/List/VectorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collection/Queue/QueueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/MergeSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/SyncronizedAndVolatile/SynchronizedExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/SyncronizedAndVolatile/VolatileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collection/Map/HashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collection/Map/HashtableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collection/Map/TreeMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/blind75/ArrayString/CanPlaceFlowers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/blind75/ArrayString/GreatestCommonDivisorStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/blind75/ArrayString/KidsWithTheGreatestNumberCandies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/blind75/ArrayString/MergeStringsAlternately.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/blind75/ArrayString/ProductOfArrayExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/blind75/ArrayString/ReverseVowelsString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/blind75/ArrayString/ReverseWordsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/blind75/HashMapHashSet/FindTheDifferenceOfTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/blind75/PrefixSum/FindPivotIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/blind75/PrefixSum/FindtheHighestAltitude.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/blind75/SlidingWindow/MaximumAverageSubarrayI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/blind75/Stack/DecodeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/blind75/TwoPointers/IsSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/blind75/TwoPointers/MoveZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/other/GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/other/JumpGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/other/PalindromePartitioningIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/other/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/other/TwoSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/BasicThreadMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/BasicThreadMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/CallableAndRunnable/CallableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/CallableAndRunnable/CallableExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/CallableAndRunnable/FutureExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/CallableAndRunnable/FutureExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/CallableAndRunnable/RunnableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/CallableAndRunnable/RunnableExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/CallableAndRunnable/dif.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/CallableAndRunnable/dif.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/CreateThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/CreateThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/ExecutorService/ExecutorServiceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/ExecutorService/ExecutorServiceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/ExecutorService/ScheduledExecutorServiceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/ExecutorService/ScheduledExecutorServiceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/Synchronizatori/CountDownLatchExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/Synchronizatori/CountDownLatchExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/Synchronizatori/ExchangerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/Synchronizatori/ExchangerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/Synchronizatori/SemaphorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/multithreading/Synchronizatori/SemaphorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/SynchronizedExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/multithreading/VolatileExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/stream/Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stream/Stream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetCode/other/MergeSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stream/Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stream/Stream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +51,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -83,13 +80,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExampleFromAbstractClass">
-    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.collection.List.ArrayListExample" />
+  <component name="RunManager" selected="Application.TwoSum">
+    <configuration name="DecodeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.blind75.Stack.DecodeString" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.collection.List.*" />
+          <option name="PATTERN" value="leetCode.blind75.Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExampleFromAbstractClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.abstraction.ExampleFromAbstractClass" />
+    <configuration name="FindPivotIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.blind75.PrefixSum.FindPivotIndex" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.abstraction.*" />
+          <option name="PATTERN" value="leetCode.blind75.PrefixSum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.leetCode.MergeSortedArray" />
+    <configuration name="FindTheDifferenceOfTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.blind75.HashMapHashSet.FindTheDifferenceOfTwoArrays" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.leetCode.*" />
+          <option name="PATTERN" value="leetCode.blind75.HashMapHashSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.stream.Stream" />
+    <configuration name="MaximumAverageSubarrayI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.blind75.SlidingWindow.MaximumAverageSubarrayI" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.stream.*" />
+          <option name="PATTERN" value="leetCode.blind75.SlidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stream.Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.Stream" />
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.other.TwoSum" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stream.*" />
+          <option name="PATTERN" value="leetCode.other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExampleFromAbstractClass" />
-        <item itemvalue="Application.stream.Stream" />
-        <item itemvalue="Application.MergeSortedArray" />
-        <item itemvalue="Application.ArrayListExample" />
-        <item itemvalue="Application.Stream" />
+        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.DecodeString" />
+        <item itemvalue="Application.FindTheDifferenceOfTwoArrays" />
+        <item itemvalue="Application.MaximumAverageSubarrayI" />
+        <item itemvalue="Application.FindPivotIndex" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699521657415</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="upd everything">
+      <option name="closed" value="true" />
+      <created>1708343018206</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708343018206</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +215,18 @@
     <MESSAGE value="Initial commit + Stream example" />
     <MESSAGE value="package multhithreading" />
     <MESSAGE value="upd multhithreading" />
-    <option name="LAST_COMMIT_MESSAGE" value="upd multhithreading" />
+    <MESSAGE value="upd everything" />
+    <option name="LAST_COMMIT_MESSAGE" value="upd everything" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetCode/other/RemoveElement.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

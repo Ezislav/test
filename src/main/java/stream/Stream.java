@@ -9,7 +9,7 @@ public class Stream {
     public static void main(String[] args) {
 
         Stream stream = new Stream();
-        stream.usePeek();
+        stream.useMap();
     }
 
     public void useFilter() {
@@ -29,9 +29,9 @@ public class Stream {
 
         List<String> list = Arrays.asList("c", "d", "f", "y");
         List<String> upperCased = list.stream()
-                .map(String::toUpperCase) //.map(s -> s.toUpperCase
+                .map(String::toUpperCase) //.map(s -> s.toUpperCase)
                 .collect(Collectors.toList());
-        System.out.println(upperCased); // [A, B, C, D]
+        System.out.println(upperCased); // [C, D, F, Y]
 
 
         List<String> listString = Arrays.asList("Alice", "Bob", "Charlie");
