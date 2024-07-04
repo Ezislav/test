@@ -1,6 +1,6 @@
 package leetCode.blind75.ArrayString;
 
-//https://leetcode.com/problems/can-place-flowers/description/?envType=study-plan-v2&envId=leetcode-75
+//https://leetcode.com/problems/can-place-flowers/description/
 public class CanPlaceFlowers {
     public static boolean canPlaceFlowers(int[] flowerbed, int n) {
         int count = 0;

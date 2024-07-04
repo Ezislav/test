@@ -1,6 +1,6 @@
 package leetCode.blind75.ArrayString;
 
-//https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75
+//https://leetcode.com/problems/merge-strings-alternately/description
 public class MergeStringsAlternately {
     public static String mergeAlternately(String word1, String word2) {
         StringBuilder stringBuilder = new StringBuilder();

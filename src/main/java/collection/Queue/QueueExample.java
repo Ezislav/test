@@ -1,6 +1,6 @@
 package collection.Queue;
 
-import java.util.LinkedList;
+import java.util.PriorityQueue;
 import java.util.Queue;
 
 //Queue представляет собой коллекцию для хранения элементов в порядке обработки FIFO (первый пришел - первый ушел).
@@ -8,7 +8,7 @@ import java.util.Queue;
 public class QueueExample {
     public static void main(String[] args) {
         // Создание Queue (часто используется LinkedList)
-        Queue<String> queue = new LinkedList<>();
+        Queue<String> queue = new PriorityQueue<>();
 
         // Добавление элементов
         queue.offer("Элемент 1"); // Добавляет элемент, возвращает true/false

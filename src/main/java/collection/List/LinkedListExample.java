@@ -4,6 +4,8 @@ import java.util.LinkedList;
 
 public class LinkedListExample {
 
+    //Сохранение порядка: Элементы сохраняются в порядке их добавления.
+    //Дубликаты: Разрешены.
     public static void main(String[] args) {
 
         // Создание LinkedList

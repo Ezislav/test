@@ -15,7 +15,6 @@ public class KidsWithTheGreatestNumberCandies {
 
         ArrayList<Boolean> booleanArrayList = new ArrayList<>(candies.length);
 
-
         int maxCandiesInRow = Arrays.stream(candies).max().getAsInt();
         System.out.println(maxCandiesInRow);
 

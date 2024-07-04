@@ -3,6 +3,9 @@ package collection.List;
 import java.util.ArrayList;
 
 public class ArrayListExample {
+
+//    Сохранение порядка: Элементы сохраняются в порядке их добавления.
+//    Дубликаты: Разрешены.
     public static void main(String[] args) {
 
         // Создание ArrayList
@@ -11,7 +14,6 @@ public class ArrayListExample {
         // Добавление элементов
         list.add("Элемент 1");
         list.add("Элемент 2");
-        list.add("Элемент 3");
 
         System.out.println(list);
 
