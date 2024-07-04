@@ -4,31 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c4a1cc5-ec8e-46cc-99c4-d436a3ecc0aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/collection/Map/LinkedHashMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easyQuestions/EasyQuestions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/base/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/base/Collection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/base/Cycles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/pattern/ArrayString/BruteForceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/pattern/ArrayString/SortingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/pattern/SlidingWindow/FixedLengthSlidingWindowExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/pattern/TwoPointers/Pallilindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/pattern/findDublicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/pattern/topkElement/PiramidalSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/pattern/topkElement/topkElementExample.java" afterDir="false" />
+    <list default="true" id="7c4a1cc5-ec8e-46cc-99c4-d436a3ecc0aa" name="Changes" comment="add LeetCode Pattern upd">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/pattern/topkElement/findTopkMinElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection/List/ArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/List/ArrayListExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection/List/LinkedListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/List/LinkedListExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection/Map/HashMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/Map/HashMapExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection/Map/TreeMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/Map/TreeMapExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection/Queue/QueueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/Queue/QueueExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/blind75/ArrayString/CanPlaceFlowers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetCode/blind75/ArrayString/CanPlaceFlowers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/blind75/ArrayString/KidsWithTheGreatestNumberCandies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetCode/blind75/ArrayString/KidsWithTheGreatestNumberCandies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/blind75/ArrayString/MergeStringsAlternately.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetCode/blind75/ArrayString/MergeStringsAlternately.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/other/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetCode/other/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stream/Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stream/Stream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/pattern/topkElement/PiramidalSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetCode/pattern/topkElement/findTopkMaxElements.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,10 +61,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leetCode.pattern.topkElement" />
       <recent name="collection.Map" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PiramidalSorting">
+  <component name="RunManager" selected="Application.findTopkMaxElements">
     <configuration name="FixedLengthSlidingWindowExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetCode.pattern.SlidingWindow.FixedLengthSlidingWindowExample" />
       <module name="test" />
@@ -99,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PiramidalSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.pattern.topkElement.PiramidalSorting" />
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.other.TwoSum" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.pattern.topkElement.*" />
+          <option name="PATTERN" value="leetCode.other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.other.TwoSum" />
+    <configuration name="findTopkMaxElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.pattern.topkElement.findTopkMaxElements" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.other.*" />
+          <option name="PATTERN" value="leetCode.pattern.topkElement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,7 +120,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PiramidalSorting" />
+        <item itemvalue="Application.findTopkMaxElements" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.topkElementExample" />
         <item itemvalue="Application.FixedLengthSlidingWindowExample" />
@@ -204,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719230008728</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add LeetCode Pattern upd">
+      <option name="closed" value="true" />
+      <created>1720084921537</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720084921537</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,7 +212,8 @@
     <MESSAGE value="upd multhithreading" />
     <MESSAGE value="upd everything" />
     <MESSAGE value="LeetCode ArrayString" />
-    <option name="LAST_COMMIT_MESSAGE" value="LeetCode ArrayString" />
+    <MESSAGE value="add LeetCode Pattern upd" />
+    <option name="LAST_COMMIT_MESSAGE" value="add LeetCode Pattern upd" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -233,6 +222,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/leetCode/other/RemoveElement.java</url>
           <line>23</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetCode/pattern/topkElement/findTopkMaxElements.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetCode/pattern/topkElement/findTopkMaxElements.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
