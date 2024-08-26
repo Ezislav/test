@@ -17,7 +17,7 @@ public class findTopkMaxElements {
         int k = 2;
 
         int[] result = findTopkMaxElements(nums, k);
-        System.out.println(Arrays.toString(result));  // Output: [5, 6]
+        System.out.println(Arrays.toString(result));  // Output: [2, 1]
     }
 
     private static int[] findTopkMaxElements(int[] nums, int k) {

@@ -5,8 +5,22 @@ import org.junit.jupiter.api.Test;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Optional;
 
 public class EasyQuestions {
+
+    final class User {
+
+        String email;
+
+        public User(String email) {
+            this.email = email;
+        }
+
+        public String getEmail() {
+            return email;
+        }
+    }
 
     @Test
     public void integerPool() {
@@ -116,26 +130,25 @@ public class EasyQuestions {
     }
 
 
-    //Optional для чего, где используется, куда?
+    //Optional используется для обработки потенциально отсутствующего значения, работы с null
+    @Test
+    public void OptionallExmaple() {
+
+        User user = new User("edvarganov@gmail.com");
+//        User user = new User(null);
+
+        Optional<String> email = Optional.ofNullable(user.getEmail());
+        email.ifPresent(System.out::println);
+
+
+    }
+
 
 
     //Exception
 
-
-
-
-
-
-
-
-
-
-
-
     //Int stream
 
     //try catch finally
-
-
 
 }

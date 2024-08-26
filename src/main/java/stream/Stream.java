@@ -11,11 +11,6 @@ import java.util.stream.IntStream;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class Stream {
-    public static void main(String[] args) {
-
-        Stream stream = new Stream();
-        stream.useMap();
-    }
 
     String lineSeparator = "===========================================================================================";
 
@@ -67,7 +62,7 @@ public class Stream {
                 Arrays.asList(7, 8, 9)
         );
         List<Integer> flattenedList = listOfLists.stream()
-                .flatMap(list10 -> list10.stream())
+                .flatMap(s -> s.stream())
                 .collect(Collectors.toList());
         System.out.println(flattenedList); // [1, 2, 3, 4, 5, 6, 7, 8, 9]
         System.out.println(lineSeparator);
@@ -175,8 +170,8 @@ public class Stream {
 
         List<String> list = Arrays.asList("a", "b", "c", "d");
         String concatenated = list.stream().collect(Collectors.joining(", "));
-        System.out.println(list);  // [a, b, c, d]
-        System.out.println(concatenated);  // a, b, c, d
+        System.out.println(list);  // [a, b, c, d] - если вывести, будет так, простой Лист
+        System.out.println(concatenated);  // a, b, c, d - String
     }
 
     @Test
