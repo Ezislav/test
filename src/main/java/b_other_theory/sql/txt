@@ -1,0 +1,3 @@
+SELECT Teachers.name, Students.name
+FROM Teachers
+JOIN Students.id ON
